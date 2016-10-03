@@ -1,9 +1,18 @@
 *.txt
+
+# Linux project files
 *.pri
 *.kdev4
 *.pro
 *.workspace
 .kdev4/
+
+# Visual studio files
+*.sln
+*.sdf
+.vs/
+
+# Unreal Engine cache
 DerivedDataCache/
 Intermediate/
 Binaries/
