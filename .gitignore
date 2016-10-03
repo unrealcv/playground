@@ -1,0 +1,11 @@
+*.txt
+*.pri
+*.kdev4
+*.pro
+*.workspace
+.kdev4/
+DerivedDataCache/
+Intermediate/
+Content/
+Binaries/
+Saved/
