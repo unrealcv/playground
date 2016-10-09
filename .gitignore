@@ -11,6 +11,7 @@
 *.sln
 *.sdf
 .vs/
+*.opendb
 
 # Unreal Engine cache
 DerivedDataCache/
