@@ -6,6 +6,7 @@
 *.pro
 *.workspace
 .kdev4/
+Makefile
 
 # Visual studio files
 *.sln
