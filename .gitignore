@@ -13,6 +13,7 @@ Makefile
 *.sdf
 .vs/
 *.opendb
+*.db
 
 # Unreal Engine cache
 DerivedDataCache/
