@@ -21,3 +21,6 @@ Intermediate/
 Binaries/
 Build/
 Saved/
+
+# Compiled binary
+built/
