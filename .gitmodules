@@ -1,3 +1,3 @@
 [submodule "Plugins/unrealcv"]
 	path = Plugins/unrealcv
-	url = git@github.com:qiuwch/unrealcv.git
+	url = https://github.com/unrealcv/unrealcv.git
