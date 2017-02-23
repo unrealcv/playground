@@ -1,3 +1,5 @@
 [submodule "Plugins/unrealcv"]
 	path = Plugins/unrealcv
 	url = https://github.com/unrealcv/unrealcv.git
+[submodule "unrealcv"]
+	branch = develop
