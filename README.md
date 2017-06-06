@@ -14,3 +14,5 @@ This project is still under construction. Its documentation is hosted in [docs.u
 ## Feedback
 
 Issues for this project can be reported to the issue tracker of either [unrealcv](https://github.com/unrealcv/unrealcv) or [playground](https://github.com/unrealcv/playground).
+
+Install unrealcv plugin to this folder by command `git clone https://github.com/unrealcv/unrealcv.git` or download a compiled version from [the release page](https://github.com/unrealcv/unrealcv/releases).

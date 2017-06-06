@@ -1,1 +1,0 @@
-Install unrealcv plugin to this folder by command `git clone https://github.com/unrealcv/unrealcv.git` or download a compiled version from [the release page](https://github.com/unrealcv/unrealcv/releases).

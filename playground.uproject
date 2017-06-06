@@ -12,11 +12,5 @@
 				"Engine"
 			]
 		}
-	],
-	"Plugins": [
-		{
-			"Name": "UnrealCV",
-			"Enabled": true
-		}
 	]
 }
